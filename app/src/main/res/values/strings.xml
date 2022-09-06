@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="user">User</string>
+    <string name="pasword">Pasword</string>
+    <string name="password">password</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="registrarse">registrarse</string>
+    <string name="log_in">log in</string>
+</resources>
